@@ -1,9 +1,0 @@
-          <script src="https://www.w3schools.com/lib/w3data.js"></script>
-          
-          
-          
-          <link w3-include-html="icons.html"></link>
-          <script>
-            w3IncludeHTML();
-          </script>
-        
