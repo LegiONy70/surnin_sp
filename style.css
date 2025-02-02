@@ -1,0 +1,178 @@
+* {
+  color: rgb(214, 248, 239);
+  border: none;
+}
+
+body {
+  background-color: rgba(23, 26, 26, 0.905);
+}
+.index_ded_img {
+  text-align: center;
+  margin-top: 5rem;
+}
+.set_ded_img {
+  width: 70%;
+  border-radius: 2rem;
+}
+.text_h_index {
+  text-align: center;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+.index_button {
+  text-align: center;
+}
+.index_btn {
+  width: 90%;
+}
+.biogra_h1_text {
+  margin-top: 1.34rem;
+  margin-bottom: 2rem;
+}
+.biogra_foto-gallery {
+  display: flex;
+  margin-bottom: 1rem;
+}
+.biogra_sett_img {
+  text-align: center;
+  width: 30%;
+  border-radius: 1rem;
+  margin-right: 1rem;
+}
+.biogra_text-biographia--p {
+  color: rgb(219, 224, 229);
+}
+.biogra_button {
+  width: 100%;
+  text-align: center;
+  background-color: rgb(167, 233, 25);
+  box-shadow: 0 0 5px #00ff5e;
+  border-radius: 1rem;
+  padding-top: 0.41rem;
+  padding-bottom: 0.41rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.biogra_set-btn {
+  text-decoration: none;
+  color: #3e3a3c;
+  font-size: 1.2rem;
+}
+.page-2_card_button {
+  text-align: center;
+}
+.page-2_card_img {
+  border-radius: 1rem;
+  /* width: 351px;
+  height: 230px; */
+}
+.page-2_card_button--set {
+  width: 100%;
+  border: none;
+  color: #3e3a3c;
+  background-color: rgb(167, 233, 25);
+}
+.page-2_card_button--set:hover {
+  color: #3e3a3c;
+  background-color: rgb(167, 233, 25);
+}
+.card {
+  background-color: #434544;
+  margin-top: 2rem;
+  border-radius: 1rem;
+  color: #d4e2d9;
+}
+.card-text {
+  color: #b1b4b1;
+}
+.page_2_button {
+  width: 100%;
+  text-align: center;
+  background-color: rgb(0, 255, 106);
+  box-shadow: 0 0 5px #4dff00;
+  border-radius: 1rem;
+  padding-top: 0.41rem;
+  padding-bottom: 0.41rem;
+}
+/* .page_2_ALL_card {
+
+}
+.lit_ALL_card {
+
+} */
+.lit_button {
+  width: 100%;
+  text-align: center;
+  background-color: rgb(255, 208, 0);
+  box-shadow: 0 0 5px #ff5900;
+  border-radius: 1rem;
+  padding-top: 0.41rem;
+  padding-bottom: 0.41rem;
+}
+.fiz_set-btn {
+  text-decoration: none;
+  color: #000000;
+  font-size: 1.2rem;
+}
+.fiz_button {
+  width: 100%;
+  text-align: center;
+  background-color: rgb(157, 0, 255);
+  box-shadow: 0 0 5px #c2c7b1;
+  border-radius: 1rem;
+  padding-top: 0.41rem;
+  padding-bottom: 0.41rem;
+}
+.project_1-text {
+  margin-top: 2rem;
+  margin-left: 1rem;
+}
+.project_text_p {
+  color: rgb(220, 230, 240);
+}
+.carousel-control-next-icon {
+  background-color: rgb(85, 83, 83);
+  border-radius: 0.6rem;
+}
+.carousel-control-prev-icon {
+  background-color: rgb(85, 83, 83);
+  border-radius: 0.6rem;
+}
+.project_photo-lenta {
+  width: 80%;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+.close_buttons {
+  width: 100%;
+  text-align: center;
+  background-color: rgb(0, 255, 149);
+  box-shadow: 0 0 5px #ae00ff;
+  border-radius: 1.4rem;
+  padding-top: 0.41rem;
+  padding-bottom: 0.41rem;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
+.SET_close_buttons {
+  text-decoration: none;
+  color: #000000;
+  font-size: 1.2rem;
+}
+
+.index_button-sp {
+  text-align: center;
+  background-color: rgb(255, 208, 0);
+  box-shadow: 0 0 5px #ff5900;
+  border-radius: 1rem;
+  padding-top: 0.41rem;
+  padding-bottom: 0.41rem;
+  margin-top: 2rem;
+}
+.sp_set {
+  text-decoration: none;
+  color: #000000;
+  font-size: 1.2rem;
+}
